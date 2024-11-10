@@ -1,4 +1,4 @@
-# patch to the openpyxl library to handle the 'xxid' tag
+# patch for the openpyxl library to handle the 'xxid' tag
 # preventing the folowing error when loading an Excel file
 # TypeError: CellStyle.__init__() got an unexpected keyword argument 'xxid'
 # code to run after having imported the openpyxl library
